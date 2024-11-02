@@ -11,8 +11,8 @@ namespace Manager.Infra.Context
     {
         public ManagerContext()
         {
+
             
         }
-
     }
 }
